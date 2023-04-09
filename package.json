@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"@types/node": "^18.15.11",
+		"mongodb": "^5.2.0",
+		"mongoose": "^7.0.3",
+		"tsx": "^3.12.6",
+		"typescript": "^5.0.4"
+	}
+}
